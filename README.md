@@ -30,6 +30,13 @@ Run BabyAGI.
 python babyagi.py 
 ````
 
+## Running in a container
+To run the script inside a docker container:
+
+```
+docker-compose run babyagi
+```
+
 # Acknowledgments
 
 I would like to express my gratitude to the developers whose code I referenced in creating this repo.
